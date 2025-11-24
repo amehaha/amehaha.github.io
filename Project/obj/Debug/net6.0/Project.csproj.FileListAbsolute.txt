@@ -1,0 +1,15 @@
+/home/ameha/Downloads/Project/bin/Debug/net6.0/Project
+/home/ameha/Downloads/Project/bin/Debug/net6.0/Project.deps.json
+/home/ameha/Downloads/Project/bin/Debug/net6.0/Project.runtimeconfig.json
+/home/ameha/Downloads/Project/bin/Debug/net6.0/Project.dll
+/home/ameha/Downloads/Project/bin/Debug/net6.0/Project.pdb
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.csproj.AssemblyReference.cache
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.AssemblyInfoInputs.cache
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.AssemblyInfo.cs
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.csproj.CoreCompileInputs.cache
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.dll
+/home/ameha/Downloads/Project/obj/Debug/net6.0/refint/Project.dll
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.pdb
+/home/ameha/Downloads/Project/obj/Debug/net6.0/Project.genruntimeconfig.cache
+/home/ameha/Downloads/Project/obj/Debug/net6.0/ref/Project.dll
